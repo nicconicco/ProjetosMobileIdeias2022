@@ -5,7 +5,8 @@ Responda aqui sua ideia sobre qual projeto Mobile voce faria.
 # **Instrucoes:**
 
 - Crie uma Issues no canto superior esquerdo aqui da pagina se voce quiser respondendo este quesitonario desta forma. Ou 
-faca um pull request para o projeto. [Fork -> push para o projeto ]
+faca um pull request para o projeto. [Fork -> push para o projeto ] Ou me manda um email se voce nao quer que de jeito algum 
+alguem veja sua ideia: nicolaugalves@gmail.com com o assunto ProjetosMobileIdeias2022 - minha ideia
 
 - Siga o form abaixo e responda cada sessao com o maximo de descricao possivel. Irei avaliar
 as respostas com nivel de dificuldade. (Seria uma consultoria gratis e a melhor ideia vou
