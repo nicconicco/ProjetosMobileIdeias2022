@@ -45,7 +45,7 @@ Tempo de desenvolvimento aproximadamente 2/4/6 meses
 
 - A escolhida sera feito um calendario de dias que possa trabalhar, provavelmente no sabado ou domingo.
 
-- Nesse tempo ja os participando teriam que ajudar com seu envolvimento no projeto seja ele em
+- Nesse tempo ja os participantes teriam que ajudar com seu envolvimento no projeto seja ele em
 pesquisar servidores, pesquisar designers, pessoas interessadas em investir, planejar cenarios de lancamento/divulgacao.
 
 - E o mais importante eh tambem estar ciente que os valores vao ser divididos de forma igualitaria em questao de consumo de servidor ao mes.
