@@ -14,6 +14,8 @@ procurar estar trabalhando no ano de 2022)
 
 -------
 
+# **Requisitos:**
+
 - 1.1 - Ideia do aplicativo 
 
 - 1.2 - Publico alvo
@@ -28,9 +30,11 @@ procurar estar trabalhando no ano de 2022)
 - 1.6 - Qual o prazo que voce imagina que levaria para fazer sua ideia estar ativamente funcionando?
 
 
--------
+--------
 
-- Baseado nisso vou responder o nivel de dificuldade, o que precisaria para implementar, quanto custaria mesmo sem considerar minha
+# **Resposta:**
+
+Baseado nisso vou responder o nivel de dificuldade, o que precisaria para implementar, quanto custaria mesmo sem considerar minha
 mao de obra.
 
 ###### Um exemplo seria:
@@ -43,6 +47,8 @@ Tempo de desenvolvimento aproximadamente 2/4/6 meses
 
 -------
 
+# **Resultado final:**
+
 - A escolhida sera feito um calendario de dias que possa trabalhar, provavelmente no sabado ou domingo.
 
 - Nesse tempo ja os participantes teriam que ajudar com seu envolvimento no projeto seja ele em
@@ -53,10 +59,14 @@ pesquisar servidores, pesquisar designers, pessoas interessadas em investir, pla
 
 -------
 
+# **Duvidas e respostas:**
+
 - A porcentagem de investimento no momento eh 60% minha parte e 40% para apenas idealizadores. Visto que terei que criar um produto do zero 
 e investir meu tempo nao so em desenvolvimento como possiveis manutencoes e constantes lancamentos de Features ao produto. A principio o que espero eh ter algum retorno apos 6 meses ou 1 ano dependendo da ideia e investimento. Proporcoes de ganhos sao equivalentes a quanto se investe x porcentagem propia.
 
 -------
+
+# **Prazos:**
 
 Vou deixar aberto ate 31 de Marco de 2022. Depois disso vou dar uma resposta ate  31 de Abril de 2022.
 
